@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\github-mila\Loja de Itens\bin\Debug\net10.0\Loja de Itens.exe
+C:\Users\Aluno\Documents\github-mila\Loja de Itens\bin\Debug\net10.0\Loja de Itens.deps.json
+C:\Users\Aluno\Documents\github-mila\Loja de Itens\bin\Debug\net10.0\Loja de Itens.runtimeconfig.json
+C:\Users\Aluno\Documents\github-mila\Loja de Itens\bin\Debug\net10.0\Loja de Itens.dll
+C:\Users\Aluno\Documents\github-mila\Loja de Itens\bin\Debug\net10.0\Loja de Itens.pdb
+C:\Users\Aluno\Documents\github-mila\Loja de Itens\obj\Debug\net10.0\Loja de Itens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\github-mila\Loja de Itens\obj\Debug\net10.0\Loja de Itens.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\github-mila\Loja de Itens\obj\Debug\net10.0\Loja de Itens.AssemblyInfo.cs
+C:\Users\Aluno\Documents\github-mila\Loja de Itens\obj\Debug\net10.0\Loja de Itens.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\github-mila\Loja de Itens\obj\Debug\net10.0\Loja de Itens.dll
+C:\Users\Aluno\Documents\github-mila\Loja de Itens\obj\Debug\net10.0\refint\Loja de Itens.dll
+C:\Users\Aluno\Documents\github-mila\Loja de Itens\obj\Debug\net10.0\Loja de Itens.pdb
+C:\Users\Aluno\Documents\github-mila\Loja de Itens\obj\Debug\net10.0\Loja de Itens.genruntimeconfig.cache
+C:\Users\Aluno\Documents\github-mila\Loja de Itens\obj\Debug\net10.0\ref\Loja de Itens.dll
